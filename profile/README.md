@@ -14,7 +14,7 @@ Stop paying monthly SaaS fees for single-bot AI services. ClawFleet runs a fleet
 
 ### Get Started
 
-- **Source code & docs:** [weiyong1024/ClawFleet](https://github.com/weiyong1024/ClawFleet)
+- **Source code & docs:** [clawfleet/ClawFleet](https://github.com/clawfleet/ClawFleet)
 - **Website:** [clawfleet.io](https://clawfleet.io)
 - **Community:** [Discord](https://discord.gg/b5ZSRyrqbt)
 
